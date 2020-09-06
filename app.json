@@ -1,14 +1,17 @@
 {
   "expo": {
-    "name": "tracks",
+    "name": "Track-me",
     "slug": "tracks",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/192.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/210.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.vegas.track"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,7 +23,7 @@
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/48.png"
     }
   }
 }
